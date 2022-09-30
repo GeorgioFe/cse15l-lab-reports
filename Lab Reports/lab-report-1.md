@@ -59,7 +59,11 @@
 ---
 
 ## Step 6: Optimzing Remote Running
+&emsp; There are a lot of ways to make our experience with the command line more pleasant, more effecient, and more optimized. For example if we want to quickly do something on the server computer, we can add whatever command we want at the end of the *ssh* command in quotes so this way the command will connect with the server computer, do whatever we asked it to do and exit the server computer automatically. We can also type in several commands on the same line seperated by semicolons and the computer will execute all the commands automatically.
 
+&emsp; Below is an example of how I used some of the techniques describes above to make my work faster, and in fact, the time it took me to edit and run the java program with these new techniques was about 60% faster compared to before (without optimizing workflow).
+
+![Image](../Screenshots/Lab%201/lab1-screenshot-8.png)
 
 
 
