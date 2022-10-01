@@ -51,17 +51,6 @@
 
 ---
 
-<h3>My Github Stats 📊</h3>
-<div align="center">
-  
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GeorgioFe&count_private=true&show_icons=true&theme=tokyonight)
-
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgioFe&show_icons=true&layout=compact&langs_count=10&theme=tokyonight)
-  
-</div>
-
----
-
 <h3>Lab reports 📓</h3>
 
 [Lab Report 0](./Lab%20Reports/lab-report-0.html)
