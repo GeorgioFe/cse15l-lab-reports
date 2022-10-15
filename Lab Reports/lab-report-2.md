@@ -125,6 +125,7 @@ Other Examples of Querying:
 
 &emsp; Failure-inducing Input
 ![image](../Screenshots/Lab%20Report%202/lab2-screenshot-13.png)
+
 &emsp; *As we see, the failure-inducing inputs in this case are the ints 1, 2, and 3 into the attend() method.*
 
 
