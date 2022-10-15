@@ -4,6 +4,7 @@
 &emsp; In this part we are going to showcase our work on the Simple Search Engine that we built.
 
 ### &emsp; Code:
+
 <code>
 
     import java.io.*;
