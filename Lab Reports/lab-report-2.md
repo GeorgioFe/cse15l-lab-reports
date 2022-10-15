@@ -98,4 +98,43 @@ Other Examples of Querying:
 ---
 
 ## Part 2
+&emsp; For this part, we are going to choose two of the bugs from different files (lab 3 repo) and for each, show the failure-inducing input (the code of the test), the symptom (the failing test output), The bug (the code fix needed), and then, explain the connection between the symptom and the bug. Why does the bug cause that particular symptom for that particular input?
 
+### &emsp; Bug #1:
+
+&emsp; Failure-inducing Input
+![image](../Screenshots/Lab%20Report%202/lab2-screenshot-9.png)
+&emsp; *As we see, the failure-inducing input in this case is the array input1.*
+
+
+&emsp; Symptom
+![image](../Screenshots/Lab%20Report%202/lab2-screenshot-10.png)
+&emsp; *The symptom for this code is the discrepancy between the actual output at element [0], which is 0, and the expected output, 6.*
+
+
+&emsp; The Bug
+![image](../Screenshots/Lab%20Report%202/lab2-screenshot-11.png)
+&emsp; *The bug is that the method is updating the current array instead of the newly initialized array (newArray) and is returning the input array (arr), instead of newArray.*
+
+![image](../Screenshots/Lab%20Report%202/lab2-screenshot-12.png)
+&emsp; *Fixed code.*
+
+
+### &emsp; Bug #2:
+
+&emsp; Failure-inducing Input
+![image](../Screenshots/Lab%20Report%202/lab2-screenshot-13.png)
+&emsp; *As we see, the failure-inducing inputs in this case are the ints 1, 2, and 3 into the attend() method.*
+
+
+&emsp; Symptom
+![image](../Screenshots/Lab%20Report%202/lab2-screenshot-14.png)
+&emsp; *The symptom for this code is the OutOfMemoryError, which is caused by the program going into an infinite loop.*
+
+
+&emsp; The Bug
+![image](../Screenshots/Lab%20Report%202/lab2-screenshot-15.png)
+&emsp; *The bug is that the method is assigning a new node for each next pointer instead of reaching to the end of the list, and then assigning a new node to the last next pointer, once.*
+
+![image](../Screenshots/Lab%20Report%202/lab2-screenshot-16.png)
+&emsp; *Fixed code.*
