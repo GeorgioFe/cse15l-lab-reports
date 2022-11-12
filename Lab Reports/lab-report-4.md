@@ -36,3 +36,16 @@
 
 ## Part II: Vim vs. `scp`
 
+### &emsp; `scp` method:
+
+&emsp; The thing that took most of the time with this method was the `scp` and `ssh` commands. Other than that I quickly edited the file in vscode.
+Overall the time it took with this method was 39.82 seconds.
+
+### &emsp; Vim method:
+
+&emsp; This method was fairly easy and quick since we already thought about the quickest way to change a word, so it seemed much easier and faster. I didn't have any specific difficulties with it.
+Overall the time it took with this method was 35.93 seconds.
+
+For a remotely run project, I would definitely prefer the vim method as I can directly edit what I need on the actual server. Additionally, using vim would be much quicker as I get used to it.
+
+If the project has a major change in terms of code, then I would definitely prefer doing it on vscode with much clearer graphical interface, even if the `scp` is going to take a little more time.
