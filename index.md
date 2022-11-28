@@ -62,3 +62,5 @@
 [Lab Report 3](./Lab%20Reports/lab-report-3.html)
 
 [Lab Report 4](./Lab%20Reports/lab-report-4.html)
+
+[Lab Report 5](./Lab%20Reports/lab-report-5.html)
