@@ -3,7 +3,6 @@
 ## grade.sh
 
 <code>
-
     # Create your grading script here
 
     GRADE=0
@@ -78,7 +77,6 @@
         echo "  "
         echo "  Final Grade: [$GRADE/3] $PERCENTAGE%"
     fi
-
 </code>
 
 ---
