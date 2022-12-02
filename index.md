@@ -64,3 +64,11 @@
 [Lab Report 4](./Lab%20Reports/lab-report-4.html)
 
 [Lab Report 5](./Lab%20Reports/lab-report-5.html)
+
+---
+
+<h3>Skill Demonstrations 🎬</h3>
+
+[Skill Demo 1](./gfeghali-skilldemo1.mp4)
+
+[Skill Demo 2](./gfeghali-skilldemo2.mp4)
